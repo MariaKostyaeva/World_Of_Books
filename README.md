@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/MariaKostyaeva/World_Of_Books/World_of_Books+/World_of_Books+/Resources/light_logo.png" width="100"/>
+  
 </div>
 
 # World_Of_Books
