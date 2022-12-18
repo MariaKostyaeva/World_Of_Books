@@ -1,0 +1,44 @@
+﻿<Window x:Class="World_of_Books_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:World_of_Books_"
+        mc:Ignorable="d"
+        Icon="/Resources/dark_logo.png"
+        Title="Мир книг+" 
+        MinHeight="500" MinWidth="850"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Frame 
+            NavigationUIVisibility="Hidden" 
+            ContentRendered="Frame_ContentRendered" 
+            Grid.Row="1" Name="MainFrame" 
+            Focusable="False"/>
+        <Image 
+            Source="/Resources/light_logo.png" 
+            HorizontalAlignment="Left" 
+            Margin="5"/>
+        <TextBlock 
+            Text="Мир книг +" 
+            FontSize="22" 
+            Foreground="White"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"
+            TextWrapping="Wrap"
+            TextAlignment="Center"
+            Width="400"/>
+        <Grid 
+            Background="#371809" 
+            Panel.ZIndex="-2"/>
+        <Button 
+            Content="Назад" 
+            Name="btnBack" 
+            HorizontalAlignment="Right"
+            Click="btnBack_Click"/>
+    </Grid>
+</Window>

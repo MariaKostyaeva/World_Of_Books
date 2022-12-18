@@ -1,0 +1,168 @@
+﻿<Page x:Class="World_of_Books_.UI.Page_AddEditBook"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:World_of_Books_.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_AddEdit">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Image
+            Grid.Column="0"
+            Grid.RowSpan="10"
+            Width="200"
+            Height="200"
+            Source="/Resources/no_photo.jpg"/>
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="0"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Название книги:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxTitle"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="1"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Автор:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxAuthor"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="2"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Категория:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxCategory"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="3"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Подкатегория:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxSubcategory"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="4"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Тип переплета:"
+                Width="155"/>
+            <ComboBox
+                x:Name="comboBoxCover"
+                IsEditable="True"
+                IsReadOnly="True"                
+                VerticalAlignment="Center"
+                DisplayMemberPath="Cover1"
+                SelectedItem="{Binding IdCover}"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="5"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Издательство:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxPublishingHouse"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="6"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Год издания:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxYearOfPublishing"/>
+        </DockPanel>
+        
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="7"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Количество страниц:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxNumberOfPages"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="8"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Стоимость:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxPrice"/>
+        </DockPanel>
+
+        <DockPanel
+            Grid.Column="1"
+            Grid.Row="9"
+            Margin="5"
+            VerticalAlignment="Center">
+            <Label 
+                Content="Количество на складе:"
+                Width="155"/>
+            <TextBox
+            x:Name="textBoxQuantityInStock"/>
+        </DockPanel>
+
+        <Button
+            x:Name="buttonSave"
+            Grid.ColumnSpan="2"
+            Grid.Row="10"
+            Content="Сохранить"
+            Click="buttonSave_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,452 @@
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+D:\WinUsers\admin\Desktop\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+D:\004_13\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+D:\004_13\4_КостяеваМН_Практика1\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+d:\WinUsers\admin\Desktop\Новая папка\4_КостяеваМН_Практика\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEdit.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEdit.baml
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+D:\004_13\WPF\4_Костяева_КП_18.05\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEdit.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEdit.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\4_Костяева_КП_03.06\World_of_Books+\World_of_Books+\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEdit.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEdit.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+D:\004_13\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_User.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\UserControl_User.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_06.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.dll
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\Utility_Library.pdb
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_Catalog.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_User.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_Catalog.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_User.baml
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Orders.g.cs
+D:\004_13\4_Костяева_КП_07.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Orders.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Orders.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_User.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Orders.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_User.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_25.06\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe.config
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\World_of_Books+.pdb
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\EntityFramework.SqlServer.xml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\bin\Debug\ru\EntityFramework.resources.dll
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.AssemblyReference.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Orders.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_Catalog.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_User.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\App.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_Content.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+_MarkupCompile.lref
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\App.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditBook.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_AddEditUser.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Authorization.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Orders.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Sidebar.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Statistics.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Stock.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Page_Users.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_Catalog.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UC\UserControl_User.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\UI\Window_Start.baml
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.g.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books_.Properties.Resources.resources
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.GenerateResource.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CoreCompileInputs.cache
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.csproj.CopyComplete
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.exe
+d:\WinUsers\admin\Desktop\4_Костяева_КП_1\Программная часть\World_of_Books+\World_of_Books+\obj\Debug\World_of_Books+.pdb

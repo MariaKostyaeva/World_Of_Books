@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8a5152cab8c04f1bb93d521f40b02479" Name="Diagram1">
+        <EntityTypeShape EntityType="DB_WOBModel.Author" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Book" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.BookImage" Width="1.5" PointX="5.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Category" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Client" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Cover" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Order" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Position" Width="1.5" PointX="0.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.PublishingHouse" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.Subcategory" Width="1.5" PointX="0.75" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.User" Width="1.5" PointX="3" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_WOBModel.UserImage" Width="1.5" PointX="5.25" PointY="18.625" IsExpanded="true" />
+        <AssociationConnector Association="DB_WOBModel.FK_Book_Author" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Book_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Book_Cover" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Book_PublishingHouse" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Book_Subcategory" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_BookImage_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Order_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Order_Client" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_Order_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_User_Position" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_WOBModel.FK_UserImage_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
